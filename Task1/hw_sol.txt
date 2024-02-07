@@ -1,1 +1,23 @@
-hello
+[Difference between <article> and <p>]
+
+<article>:
+    - has a complete meaning even when removed from context of the original page.
+    - usualy used for large text (can also contain multiple paragraphs).
+    - used as main text in news articles and blogs.
+    - semantic block for defining its content as topic or article
+
+<p>:
+    - its content can be dependant on the context of the page
+    - used for simple paragraphs of text
+    - is the general tag for text
+    - does not have a specific semantic meaning
+
+[Difference between <section> and <div>]
+
+<section>:
+    - has a semantic meaning
+    - used to organise elements that are related to each other
+
+<div>:
+    - is a regular tag for many purposes
+
